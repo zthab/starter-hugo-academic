@@ -26,13 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zthabet at wellesley dot edu
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: 'https://twitter.com/zahra_thab'
-    - icon: linkedin
-      icon_pack: fas
-      link: 'https://www.linkedin.com/in/zahra-t-098760221/'
 
 design:
   columns: '2'
